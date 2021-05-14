@@ -1,18 +1,17 @@
-# Nome do projeto
+# Práticas em Conversação
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O aprendizado de idiomas envolve uma série de fatores, e um dos principais deles é a conversação com outras pessoas.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel Martins Pereira 
+* Iago Carvalho Souto
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Simone Alves Nogueira
+* Rommel Vieira Carneiro
+* Luciana de Nardim
 
 ## Instruções de utilização
 
