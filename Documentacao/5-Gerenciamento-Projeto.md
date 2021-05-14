@@ -14,6 +14,8 @@
 
 ## Processo
 
+Como processo para metodologia ágil, utilizaremos tanto o Scrum, quanto o Kanban. O scrum sendo mais focado nas reuniões semanais (Sprints) para discutirmos sobre as tarefas já feitas e focarmos em resolver tarefas futuras. E o kanban focado em um maior fluxo constante, para mantermos o controle das tarefas com o planejamento e acompanhamento adequados. Utilizaremos o Trello para tal.
+
 > Coloque  informações sobre detalhes da implementação do Scrum seguido
 > pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
 > o andamento do projeto, a execução das tarefas e o status de desenvolvimento
@@ -29,14 +31,14 @@
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- VSCode
+- Discord e Teams 
+- Axure
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
+O VSCode foi escolhido porque ele possui uma integração com o
+sistema de versão (Git). As ferramentas de comunicação utilizadas possuem
 integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
+diagramas utilizamos o Axure por melhor captar as
 necessidades da nossa solução.
 
 > Liste quais ferramentas foram empregadas no desenvolvimento do
