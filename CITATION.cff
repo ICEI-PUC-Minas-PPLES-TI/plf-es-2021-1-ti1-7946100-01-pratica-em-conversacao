@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: Martins Pereira 
+    given-names: Gabriel
+  - family-names: Carvalho Souto
+    given-names: Iago
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Nardim
+    given-names: Luciana
+keywords:
+  - Aprendizados de Idiomas
+  - Conversação
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-1-ti1-7946100-01-pratica-em-conversacao 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-06-20
